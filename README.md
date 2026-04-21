@@ -1,3 +1,6 @@
+> [!NOTE]
+> 📦 **This project is no longer actively maintained.** No new features or fixes are planned, but the repository remains available for reference.
+> 
 # PC Migration Tool: Simplifying PC Transitions
 
 ## Overview
